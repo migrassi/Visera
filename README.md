@@ -13,4 +13,6 @@ La Visera fue desarrollada en Mayo de 2020, en el marco de la pandemia mundial d
 
 Website:https://miguelgrassi.com.ar/visera/
 
+Video de ejemplo. Encoder rotativo, contador en Hexa y decimal, con display de dos dígitos: https://youtu.be/07v77fjeGq4 
+
 Herramienta para generación de caracteres y símbolos personalizados para usar en el display Matriz de Leds: https://editor.p5js.org/migrassi/present/nZ4poi31X  
